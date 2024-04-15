@@ -1,4 +1,6 @@
-<img style="gg" src="https://i.imgur.com/zQVJJHF.gif">
+
+<div style="margin: 0 auto;"><img style="" src="https://i.imgur.com/zQVJJHF.gif"></div>
+
 
 
 
