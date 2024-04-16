@@ -17,6 +17,6 @@
     <img alt="MariaDB" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg">
     <img alt="NPM manager Dependecy" style="width: 50px;" src="https://pipedream.com/s.v0/app_XywhLL/logo/orig">
     <img alt="JS" style="width: 40px; margin-left:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img alt="HTML" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-    <img alt="CSS" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+    <img alt="HTML" style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img alt="CSS" style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
