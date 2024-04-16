@@ -4,11 +4,19 @@
 
  <div>
    <a href="https://github.com/americanj">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=americanj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=americanj&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=americanj&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=americanj&layout=compact&langs_count=6&theme=neon"/>
 </div>
 
+<h2>Technologies and Tools</h2>
 
-<p></p>
-
-
+<div>
+    <img alt="Java" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+    <img alt="Spring Framework" style="width: 50px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+    <img alt="Lombok Library" style="width: 50px;" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4">
+    <img alt="MariaDB" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg">
+    <img alt="NPM manager Dependecy" style="width: 50px;" src="https://pipedream.com/s.v0/app_XywhLL/logo/orig">
+    <img alt="JS" style="width: 40px; margin-left:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img alt="HTML" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+    <img alt="CSS" style="width: 50px; margin-left:-8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+</div>
