@@ -18,5 +18,5 @@
     <img alt="NPM manager Dependecy" style="width: 50px;" src="https://pipedream.com/s.v0/app_XywhLL/logo/orig">
     <img alt="JS" style="width: 40px; margin-left:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img alt="HTML" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-    <img alt="CSS" style="width: 50px; margin-left:-8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+    <img alt="CSS" style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 </div>
